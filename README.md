@@ -1,4 +1,5 @@
 # App de notícias
+# InfoShare
 ## Sobre
 ### A idéia do projeto é desenvolver um aplicativo onde o usuário é capaz de publicar notícias.
 ### [Banco de dados Firebase](https://console.firebase.google.com/u/0/project/app-de-noticias-8dae7/firestore/data/~2Fnoticias?hl=pt-br&pli=1)
