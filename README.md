@@ -1,5 +1,12 @@
-# SHECAB
+# App de notícias
 ## Sobre
-### A idéia do projeto é desenvolver um aplicativo de transporte voltado para o público feminino.
-### [Design](https://www.figma.com/file/ABfXekNQNx3SqR8Yj5dUvb/shecab?type=design&node-id=2%3A15&mode=design&t=UKjtWlxH0YM2pIZ0-1)
+### A idéia do projeto é desenvolver um aplicativo onde o usuário é capaz de publicar notícias.
+### [Banco de dados Firebase](https://console.firebase.google.com/u/0/project/app-de-noticias-8dae7/firestore/data/~2Fnoticias?hl=pt-br&pli=1)
+ * Projeto ligado ao banco de dados CLoud Firestore;
  * Projeto desenvolvido na linguagem Kotlin;
+ * Desenvolvido no arquivo empty activity;
+ * Versão do android studio utilizada: Android Studio Giraffe | 2022.3.1;
+ * API mínima: API 21: Android 5.0(Lolipop);
+ * SDK mínimo: 34(API 34);
+ * O app possui posicionamento horizontal e vertical;
+   
