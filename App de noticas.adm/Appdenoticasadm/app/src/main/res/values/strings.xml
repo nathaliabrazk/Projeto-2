@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">App de noticas.adm</string>
-    <string name="titulo_principal">Escreva uma notícia</string>
-    <string name="hint_titulo">Título</string>
-    <string name="hint_noticia">Escreva sua notícia</string>
-    <string name="hint_data">Data de publicação</string>
-    <string name="hint_autor">Autor</string>
-    <string name="txt_button">Publicar Notícia</string>
-</resources>
